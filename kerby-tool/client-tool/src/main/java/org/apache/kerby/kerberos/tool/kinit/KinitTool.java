@@ -171,6 +171,7 @@ public class KinitTool {
         KinitOption kto;
         String principal = null;
 
+
         int i = 0;
         String opt, param, error;
         while (i < args.length) {
